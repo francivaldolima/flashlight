@@ -1,9 +1,15 @@
-1. # Manipulando o DOM
+#dio-flashlight
 
-   ## Atividade: Light Mode/Dark Mode
+Construindo um App usando Sensor de Movimento com React Native
 
-   1. Crie uma estrutura básica de projeto front-end (HTML, CSS e JS)
-   2. Copie o HTML e o CSS deste repositório
-   3. Crie um arquivo chamado `scripts.js` na sua pasta `assets/js`
-   4. Selecione os elementos: `h1`, `button`, `footer` e `body`
-   5. Se os elementos possuírem a classe `dark-mode`, modifique seus estilos. Caso contrário, volte os estilos para o original
+![picasion com_57de49ff1c958d79a513ec80e34638df](https://user-images.githubusercontent.com/54116971/168671889-223841c5-b123-4689-b213-87cb155f962b.gif)
+
+##Conteúdo
+- Libs react-native-shake e react-native-torch
+- icons: https://drive.google.com/drive/folders/1aDTyA09EFjFvqmXqkDKLoMhFx65QQExQ
+- StyleSheet
+- Hook useState
+- Hook useEffect
+- Add Listener to RNShake
+- Lifecicly ReactJS
+  
