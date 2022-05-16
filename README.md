@@ -1,6 +1,7 @@
 #dio-flashlight
 
-Construindo um App usando Sensor de Movimento com React Native
+- Construindo um App usando Sensor de Movimento com React Native
+- App de lanterna que, além de ligar a lanterna do celular ao tocar na tela, também acenderá quando for verificado o movimento de chacoalhar o celular. 
 
 ![picasion com_57de49ff1c958d79a513ec80e34638df](https://user-images.githubusercontent.com/54116971/168671889-223841c5-b123-4689-b213-87cb155f962b.gif)
 
